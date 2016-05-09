@@ -1,4 +1,4 @@
-name: David Angell
+name: David Angell - Audio Production Portal
 favicon: null
 layout_spectrum: 0.6709697444457561
 typography_spectrum: 0.6052183979190886
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.10918063297867775
-  lightness: 0.6212591640651226
-  saturation: 0.1015076944604516
-  rhythmicContrast: 0.24233386083506048
+    - '#1f3d6f'
+    - '#5484c2'
+    - '#0d1627'
+    - '#caaf9c'
+    - '#addffc'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
