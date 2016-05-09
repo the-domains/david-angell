@@ -24,6 +24,6 @@ color:
     - '#addffc'
   brandStrength: 0.375
   lightness: 0.5
-  saturation: 1
+  saturation: 0.4375
   rhythmicContrast: 1
 purpose: []
